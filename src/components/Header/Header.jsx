@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './Header.scss'
 import Burger from './menu.svg.png'
 import BurgerClose from './close-menu.png'
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom'
 import Main from '../pages/Main'
 import First from '../pages/First'
 import Second from '../pages/Second'
@@ -22,25 +22,25 @@ const Header = () => {
                         <nav className={`header__nav ${isOpen ? 'active' : ''}`}>
                             <ul className='header__nav-list'>
                                 <li className='header__nav-item'>
-                                    <a href="/">Главная</a>
+                                    <link to="/">Главная</link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <a href="/first">1</a>
+                                    <link to="/first">1</link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <a href="/second">2</a>
+                                    <link to="/second">2</link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <a href="/third">3</a>
+                                    <link to="/third">3</link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <a href="/fourth">4</a>
+                                    <link to="/fourth">4</link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <a href="/fifth">5</a>
+                                    <link to="/fifth">5</link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <a href="/sixth">6</a>
+                                    <link to="/sixth">6</link>
                                 </li>
                             </ul>
                         </nav>
