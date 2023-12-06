@@ -1,0 +1,118 @@
+.main {
+    padding-top: 80px;
+    &__title {
+        text-align: center;
+        font-size: 36px;
+        margin-bottom: 20px;
+        font-family: serif;
+    }
+    &__girl {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+    &__girl img {
+        max-width: 100%;
+        display: block;
+    }
+    &__subtitle {
+        text-align: center;
+        font-size: 30px;
+        margin-bottom: 15px;
+        font-family: serif;
+    }
+    &__row {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 20px;
+    }
+    &__column {
+        flex: 0 0 49.5%;
+    }
+    &__text {
+        font-size: 18px;
+        text-indent: 20px;
+        line-height: 1.5;
+        margin-bottom: 10px;
+    }
+    &__photo {
+        flex: 1 1 auto;
+    }
+    &__photo img {
+        max-width: 100%;
+    }
+    &__from {
+        display: flex;
+        justify-content: center;
+    }
+    &__video {
+        width: 400px;
+        height: 225px;
+        margin-bottom: 20px;
+    }
+    &__offer {
+        font-size: 24px;
+        text-align: center;
+        margin-bottom: 20px;
+        font-family: serif;
+    }
+    &__rows {
+        display: flex;
+        margin: 0 -10px;
+    }
+    &__columns {
+        padding: 10px;
+        flex: 0 0 33.333%;
+        display: flex;
+    }
+    &__items {
+        border: 1px solid teal;
+        border-radius: 5px;
+        padding: 3px;
+    }
+    &__photos {
+        flex: 1 1 auto;
+    }
+    &__photos img {
+        max-width: 100%;
+        border: 1px solid rgb(243, 240, 240);
+    }
+}
+
+@media (max-width: 976px) {
+    .main {
+        &__row {
+            display: block;
+        }
+    }
+}
+
+@media (max-width: 770px) {
+    .main {
+        &__rows {
+            display: block;
+        }
+    }
+}
+
+@media (max-width: 576px) {
+    .main {
+        &__title {
+            font-size: 30px;
+        }
+        &__subtitle {
+            font-size: 24px;
+        }
+        &__text {
+            font-size: 16px;
+        }
+        &__video {
+            width: 280px;
+            height: 158px;
+        }
+        &__offer {
+            font-size: 20px;
+        }
+    }
+}

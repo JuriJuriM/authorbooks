@@ -1,0 +1,124 @@
+.fourth {
+    margin-top: 80px;
+    &__title {
+        text-align: center;
+        font-size: 36px;
+        margin-bottom: 20px;
+        font-family: serif;
+    }
+    &__viev {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    &__viev img {
+        max-width: 100%;
+        display: block;
+    }
+    &__row {
+        display: flex;
+        gap: 10px;
+    }
+    &__column {
+        flex: 0 0 49.5%;
+    }
+    &__photo {
+        flex: 1 1 auto;
+        margin-bottom: 15px;
+    }
+    &__photo img {
+        max-width: 100%;
+    }
+    &__text {
+        font-size: 18px;
+        text-indent: 20px;
+        line-height: 1.5;
+        margin-bottom: 15px;
+    }
+    &__subtitle {
+        text-align: center;
+        font-size: 30px;
+        margin-bottom: 20px;
+        font-family: serif;
+    }
+    &__rows {
+        display: flex;
+        gap: 10px;
+    }
+    &__columns-one {
+        flex: 0 0 33.333%;
+    }
+    &__photos {
+        flex: 1 1 auto;
+        margin-bottom: 20px;
+    }
+    &__photos img {
+        max-width: 100%;
+        border: 1px solid rgb(160, 215, 215);
+    }
+    &__texts {
+        font-size: 24px;
+        text-indent: 20px;
+        font-style: italic;
+        margin-bottom: 20px;
+    }
+    &__button {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    &__button a {
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        border: 2px solid #4d4261;
+        border-radius: 10px;
+        padding: 10px;
+        background-color: #5e5373;
+        color: #ffffff;
+    }
+    &__button a:hover {
+        background-color: #8d80a5;
+    }
+}
+
+@media (max-width: 600px) {
+    .fourth {
+        &__row {
+            display: block;
+        }
+        &__title {
+            font-size: 30px;
+        }
+        &__subtitle {
+            font-size: 24px;
+        }
+        &__texts {
+            font-size: 18px;
+        }
+        &__button a {
+            font-size: 12px;
+        }
+    }
+}
+
+@media (max-width: 476px) {
+    .fourth {
+        &__texts {
+            font-size: 16px;
+        }
+        &__button a {
+            font-size: 10px;
+            padding: 5px;
+        }
+    }
+}
+
+@media (max-width: 385px) {
+    .fourth {
+        &__rows {
+            display: block;
+        }
+    }
+}
