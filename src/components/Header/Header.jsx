@@ -22,25 +22,25 @@ const Header = () => {
                         <nav className={`header__nav ${isOpen ? 'active' : ''}`}>
                             <ul className='header__nav-list'>
                                 <li className='header__nav-item'>
-                                    <link to="/">Главная</link>
+                                    <Link to="/">Главная</Link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <link to="/first">1</link>
+                                    <Link to="/first">1</Link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <link to="/second">2</link>
+                                    <Link to="/second">2</Link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <link to="/third">3</link>
+                                    <Link to="/third">3</Link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <link to="/fourth">4</link>
+                                    <Link to="/fourth">4</Link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <link to="/fifth">5</link>
+                                    <Link to="/fifth">5</Link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <link to="/sixth">6</link>
+                                    <Link to="/sixth">6</Link>
                                 </li>
                             </ul>
                         </nav>
