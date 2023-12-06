@@ -1,7 +1,6 @@
 import React from 'react'
 import './Main.scss'
-//import Girl from '../../assets/img/Girl.jpg'
-import Girl from './Girl.jpg'
+import Girl from '../../assets/img/Girl.jpg'
 import Girlfind from '../../assets/img/Girlfind.jpg'
 import Girlread from '../../assets/img/Girlread.jpg'
 import Penmen from '../../assets/img/Penmen.jpg'
