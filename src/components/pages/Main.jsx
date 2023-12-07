@@ -19,7 +19,7 @@ const Main = () => {
                 <div className="main__body">
                     <div className="main__title">Главная страница</div>
                     <div className="main__girl">
-                        <img src={require('../../assets/img/Girl.jpg')} alt="Girl" />
+                        <img src={require('../../../public/assets/Girl.jpg')} alt="Girl" />
                     </div>
                     <div className="main__subtitle">Коротко об основной идее</div>
                     <div className="main__row">
