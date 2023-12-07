@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/authorbooks/static/css/main.2651412e.css",
-    "main.js": "/authorbooks/static/js/main.63c5117e.js",
+    "main.js": "/authorbooks/static/js/main.6cd700fa.js",
     "static/media/Girltime.jpg": "/authorbooks/static/media/Girltime.e7ebd4823f4aba2042f2.jpg",
     "static/media/Alpy.png": "/authorbooks/static/media/Alpy.e5413cc90b49cd7519c2.png",
     "static/media/Golden.jpg": "/authorbooks/static/media/Golden.613857f637c12e4a8245.jpg",
@@ -51,10 +51,10 @@
     "static/media/Openedbook.jpg": "/authorbooks/static/media/Openedbook.66b380fde56b87070cd3.jpg",
     "index.html": "/authorbooks/index.html",
     "main.2651412e.css.map": "/authorbooks/static/css/main.2651412e.css.map",
-    "main.63c5117e.js.map": "/authorbooks/static/js/main.63c5117e.js.map"
+    "main.6cd700fa.js.map": "/authorbooks/static/js/main.6cd700fa.js.map"
   },
   "entrypoints": [
     "static/css/main.2651412e.css",
-    "static/js/main.63c5117e.js"
+    "static/js/main.6cd700fa.js"
   ]
 }
