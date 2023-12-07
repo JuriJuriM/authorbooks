@@ -1,6 +1,6 @@
 import React from 'react'
 import './Main.scss'
-import Girl from '../../assets/img/Girl.jpg'
+//import Girl from '../../assets/img/Girl.jpg'
 import Girlfind from '../../assets/img/Girlfind.jpg'
 import Girlread from '../../assets/img/Girlread.jpg'
 import Penmen from '../../assets/img/Penmen.jpg'
@@ -19,7 +19,7 @@ const Main = () => {
                 <div className="main__body">
                     <div className="main__title">Главная страница</div>
                     <div className="main__girl">
-                        <img src={Girl} alt="Girl" />
+                        <img src={require('../../assets/img/Girl.jpg')} alt="Girl" />
                     </div>
                     <div className="main__subtitle">Коротко об основной идее</div>
                     <div className="main__row">
