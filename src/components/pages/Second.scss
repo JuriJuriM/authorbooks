@@ -127,3 +127,11 @@
         }
     }
 }
+
+@media (max-width: 440px) {
+    .second {
+        &__rows {
+            display: block;
+        }
+    }
+}
