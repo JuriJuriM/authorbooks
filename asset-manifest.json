@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/authorbooks/static/css/main.2651412e.css",
+    "main.css": "/authorbooks/static/css/main.c6f58f5f.css",
     "main.js": "/authorbooks/static/js/main.ee4d2d9a.js",
     "static/media/AboutSVU.png": "/authorbooks/static/media/AboutSVU.a88c9bf81c1fea5c7495.png",
     "static/media/Suvorovone.png": "/authorbooks/static/media/Suvorovone.35c445f4ae2efc8b893e.png",
@@ -50,11 +50,11 @@
     "static/media/Fatherstwo.jpg": "/authorbooks/static/media/Fatherstwo.ac7f55c164f4d57c0810.jpg",
     "static/media/Openedbook.jpg": "/authorbooks/static/media/Openedbook.0df9823c5a5094e56c96.jpg",
     "index.html": "/authorbooks/index.html",
-    "main.2651412e.css.map": "/authorbooks/static/css/main.2651412e.css.map",
+    "main.c6f58f5f.css.map": "/authorbooks/static/css/main.c6f58f5f.css.map",
     "main.ee4d2d9a.js.map": "/authorbooks/static/js/main.ee4d2d9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2651412e.css",
+    "static/css/main.c6f58f5f.css",
     "static/js/main.ee4d2d9a.js"
   ]
 }
