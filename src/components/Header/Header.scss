@@ -28,13 +28,14 @@
         align-items: center;
     }
     &__logo {
-        font-size: 34px;
+        font-size: 30px;
         font-weight: 700;
-        color: red;
-        border: 2px solid red;
-        background-color: rgb(236, 201, 201);
+        color: #e76712;
+        border: 2px solid #e76712;
+        background-color: rgb(235, 214, 214);
         border-radius: 50px;
         padding: 5px;
+        font-family: serif;
     }
     &__nav-list {
         display: flex;
@@ -59,6 +60,9 @@
 
 @media (max-width: 576px) {
     .header {
+        &__logo {
+            font-size: 24px;
+        }
         &__nav {
             position: fixed;
             top: 0;
