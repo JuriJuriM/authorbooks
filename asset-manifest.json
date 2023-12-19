@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/authorbooks/static/css/main.af1874dc.css",
-    "main.js": "/authorbooks/static/js/main.ee4d2d9a.js",
+    "main.js": "/authorbooks/static/js/main.0ce149d5.js",
     "static/media/AboutSVU.png": "/authorbooks/static/media/AboutSVU.a88c9bf81c1fea5c7495.png",
     "static/media/Suvorovone.png": "/authorbooks/static/media/Suvorovone.35c445f4ae2efc8b893e.png",
     "static/media/Alpy.png": "/authorbooks/static/media/Alpy.769824fe534125353eca.png",
@@ -51,10 +51,10 @@
     "static/media/Openedbook.jpg": "/authorbooks/static/media/Openedbook.0df9823c5a5094e56c96.jpg",
     "index.html": "/authorbooks/index.html",
     "main.af1874dc.css.map": "/authorbooks/static/css/main.af1874dc.css.map",
-    "main.ee4d2d9a.js.map": "/authorbooks/static/js/main.ee4d2d9a.js.map"
+    "main.0ce149d5.js.map": "/authorbooks/static/js/main.0ce149d5.js.map"
   },
   "entrypoints": [
     "static/css/main.af1874dc.css",
-    "static/js/main.ee4d2d9a.js"
+    "static/js/main.0ce149d5.js"
   ]
 }
