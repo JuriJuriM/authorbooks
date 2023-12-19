@@ -88,7 +88,7 @@ const Second = () => {
                                     <div className="second__texts">Для этого просто нажмите на кнопку, которая поможет выйти на нужную страницу.</div>
                                 </div>
                                 <div className="second__button">
-                                    <a href="https://ridero.ru/books/vasilyok/">В магазин</a>
+                                    <a href="https://ridero.ru/books/vasilyok/" target='_blank' rel="noreferrer">В магазин</a>
                                 </div>
                             </div>
                         </div>

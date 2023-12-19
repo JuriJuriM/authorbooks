@@ -101,7 +101,7 @@ const Fourth = () => {
                                 <div className="fourth__textall">
                                     <div className="fourth__texts">А вам, друзья, для начала путешествия нужно нажать на кнопку и переместиться в магазин на страницу выбранной книги.</div>
                                     <div className="fourth__button">
-                                        <a href="https://ridero.ru/books/b_i_s_speshat_na_pomosh/">В магазин</a>
+                                        <a href="https://ridero.ru/books/b_i_s_speshat_na_pomosh/" target='_blank' rel="noreferrer">В магазин</a>
                                     </div>
                                 </div>
                             </div>

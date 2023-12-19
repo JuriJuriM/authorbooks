@@ -106,7 +106,7 @@ const Fifth = () => {
                                 <div className="fifth__textall">
                                     <div className="fifth__texts">Эту книгу, конечно же, можно заказать в нашем магазине. Нажав на кнопку, вы переместитесь на нужную страницу.</div>
                                     <div className="fifth__button">
-                                        <a href="https://ridero.ru/books/my_iz_svu/">В магазин</a>
+                                        <a href="https://ridero.ru/books/my_iz_svu/" target='_blank' rel="noreferrer">В магазин</a>
                                     </div>
                                 </div>
                             </div>

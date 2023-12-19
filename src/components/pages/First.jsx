@@ -103,7 +103,7 @@ const First = () => {
                                     <div className="first__texts">Эта несложная операция переведёт вас на нужную страницу.</div>
                                 </div>
                                 <div className="first__button">
-                                    <a href="https://ridero.ru/books/khroniki_nestroevoi_podgotovki/" className='first__btn'>В магазин</a>
+                                    <a href="https://ridero.ru/books/khroniki_nestroevoi_podgotovki/" className='first__btn' target='_blank' rel="noreferrer">В магазин</a>
                                 </div>
                             </div>
                         </div>
