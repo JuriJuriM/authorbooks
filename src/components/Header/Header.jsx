@@ -10,6 +10,7 @@ import Third from '../pages/Third'
 import Fourth from '../pages/Fourth'
 import Fifth from '../pages/Fifth'
 import Sixth from '../pages/Sixth'
+import Logo from '../../assets/img/Logoone.JPG'
 
 const Header = () => {
     const [isOpen, setOpen] = useState();
@@ -18,7 +19,9 @@ const Header = () => {
             <header className='header'>
                 <div className='container'>
                     <div className="header__body">
-                        <div className='header__logo'>ЮМ</div>
+                        <div className='header__logo'>
+                            <img src={Logo} alt='Logo' />
+                        </div>
                         <nav className={`header__nav ${isOpen ? 'active' : ''}`}>
                             <ul className='header__nav-list'>
                                 <li className='header__nav-item'>

@@ -17,7 +17,7 @@ const Main = () => {
         <div className='main'>
             <div className="container">
                 <div className="main__body">
-                    <div className="main__title">Главная страница</div>
+                    <div className="main__title">Книги Юрия Мудренко</div>
                     <div className="main__girl">
                         <img src={Girl} alt="Girl" />
                     </div>

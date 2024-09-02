@@ -84,11 +84,11 @@ const Second = () => {
                         <div className="second__columns-two">
                             <div className="second__items">
                                 <div className="second__textall">
-                                    <div className="second__texts">А прочитать эту историю целиком вы сможете, приобретя книгу.</div>
+                                    <div className="second__texts">А прочитать эту историю целиком вы сможете, пройдя по ссылке ниже по тексту.</div>
                                     <div className="second__texts">Для этого просто нажмите на кнопку, которая поможет выйти на нужную страницу.</div>
                                 </div>
                                 <div className="second__button">
-                                    <a href="https://ridero.ru/books/vasilyok/" target='_blank' rel="noreferrer">В магазин</a>
+                                    <a href="https://ridero.ru/books/vasilyok/" target='_blank' rel="noreferrer">Вам сюда</a>
                                 </div>
                             </div>
                         </div>

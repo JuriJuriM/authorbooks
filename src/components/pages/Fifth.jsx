@@ -104,9 +104,9 @@ const Fifth = () => {
                         <div className="fifth__columns-two">
                             <div className="fifth__columns-items">
                                 <div className="fifth__textall">
-                                    <div className="fifth__texts">Эту книгу, конечно же, можно заказать в нашем магазине. Нажав на кнопку, вы переместитесь на нужную страницу.</div>
+                                    <div className="fifth__texts">Эту книгу, конечно же, несложно найти. Нажав на кнопку, вы переместитесь на нужную страницу.</div>
                                     <div className="fifth__button">
-                                        <a href="https://ridero.ru/books/my_iz_svu/" target='_blank' rel="noreferrer">В магазин</a>
+                                        <a href="https://ridero.ru/books/my_iz_svu/" target='_blank' rel="noreferrer">Вам сюда</a>
                                     </div>
                                 </div>
                             </div>

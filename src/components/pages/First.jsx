@@ -87,7 +87,7 @@ const First = () => {
                             <iframe width="100%" height="100%" src="https://www.youtube.com/embed/a6NFzSNT0vA?si=uwqD1S42_Nuh50iN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
                     </div>
-                    <div className="first__subtitle">Если решили заказать эту книгу, то:</div>
+                    <div className="first__subtitle">Если хотите прочитать эту книгу, то:</div>
                     <div className="first__rows">
                         <div className="first__columns-one">
                             <div className="first__items">
@@ -99,17 +99,17 @@ const First = () => {
                         <div className="first__columns-two">
                             <div className="first__items">
                                 <div className="first__textall">
-                                    <div className="first__texts">Для заказа книги "Хроники нестроевой подготовки" пожалуйста воспользуйтесь кнопкой, расположенной под данным текстом.</div>
+                                    <div className="first__texts">Для этого пожалуйста воспользуйтесь кнопкой, расположенной под данным текстом.</div>
                                     <div className="first__texts">Эта несложная операция переведёт вас на нужную страницу.</div>
                                 </div>
                                 <div className="first__button">
-                                    <a href="https://ridero.ru/books/khroniki_nestroevoi_podgotovki/" className='first__btn' target='_blank' rel="noreferrer">В магазин</a>
+                                    <a href="https://ridero.ru/books/khroniki_nestroevoi_podgotovki/" className='first__btn' target='_blank' rel="noreferrer">Вам сюда</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div className="first__end">И ещё два видео:</div>
-                    <div className="first__thema">О самой книге и о том, как её заказать, пройдя по ссылке при нажатии на кнопку</div>
+                    <div className="first__thema">О самой книге и о том, как её найти</div>
                     <div className="first__videos">
                         <div className="first__fromtwo">
                             <iframe width="100%" height="100%" src="https://www.youtube.com/embed/325jxAMK1jo?si=nFWkVy9kcH5g7A7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

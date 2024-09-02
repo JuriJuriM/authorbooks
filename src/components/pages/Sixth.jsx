@@ -84,9 +84,9 @@ const Sixth = () => {
                         <div className="sixth__columns-two">
                             <div className="sixth__items">
                                 <div className="sixth__textall">
-                                    <div className="sixth__texts">Для заказа книги "День доспехов и т.д." пожалуйста воспользуйтесь кнопкой, расположенной непосредственно под данным текстом. Эта несложная операция переведёт вас на нужную страницу электронного магазина.</div>
+                                    <div className="sixth__texts">Для этого пожалуйста воспользуйтесь кнопкой, расположенной непосредственно под данным текстом. Эта несложная операция переведёт вас на нужную страницу. И приятного прочтения!</div>
                                     <div className="sixth__button">
-                                        <a href="https://ridero.ru/books/den_dospekhov_i_t_d/" target='_blank' rel="noreferrer">В магазин</a>
+                                        <a href="https://ridero.ru/books/den_dospekhov_i_t_d/" target='_blank' rel="noreferrer">Вам сюда</a>
                                     </div>
                                 </div>
                             </div>

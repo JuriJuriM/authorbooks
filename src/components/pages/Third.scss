@@ -5,6 +5,7 @@
         font-size: 36px;
         margin-bottom: 20px;
         font-family: serif;
+        color: red;
     }
     &__viev {
         width: 100%;
@@ -80,6 +81,18 @@
     &__button a:hover {
         background-color: #8d80a5;
     }
+}
+
+.third:before {
+    content: "";
+    background: url("../../assets/img/moneyfalling.png");
+    position: fixed;
+    background-size: cover;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
 }
 
 @media (max-width: 730px) {

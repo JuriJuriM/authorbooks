@@ -117,9 +117,9 @@ const Third = () => {
                             <div className="third__textall">
                                 <div className="third__texts">Итак, просто нажмите кнопку, которая поможет выйти на сайт выбранной книги.</div>
                                 <div className="third__button">
-                                    <a href="https://ridero.ru/books/bankomat/" target='_blank' rel="noreferrer">В магазин</a>
+                                    <a href="https://ridero.ru/books/bankomat/" target='_blank' rel="noreferrer">Вам сюда</a>
                                 </div>
-                                <div className="third__texts">Здесь вы сможете заказать и бумажный, и электронный варианты произведения. А потом, усевшись в мягкое кресло, с удовольствием прочитать книгу от начала и до конца.</div>
+                                <div className="third__texts">А потом, усевшись в мягкое кресло, с удовольствием прочитать книгу от начала и до конца.</div>
                             </div>
                         </div>
                     </div>
