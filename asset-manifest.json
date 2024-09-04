@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/authorbooks/static/css/main.159d2d75.css",
+    "main.css": "/authorbooks/static/css/main.fe6fdf42.css",
     "main.js": "/authorbooks/static/js/main.57440e43.js",
     "static/media/AboutSVU.png": "/authorbooks/static/media/AboutSVU.a88c9bf81c1fea5c7495.png",
     "static/media/moneyfalling.png": "/authorbooks/static/media/moneyfalling.ac1789a27b37086a358b.png",
     "static/media/Suvorovone.png": "/authorbooks/static/media/Suvorovone.35c445f4ae2efc8b893e.png",
+    "static/media/albom.JPG": "/authorbooks/static/media/albom.a91362ccf59292b655d8.JPG",
     "static/media/Alpy.png": "/authorbooks/static/media/Alpy.769824fe534125353eca.png",
-    "static/media/oldbook.png": "/authorbooks/static/media/oldbook.d423f1d078c78f80631c.png",
     "static/media/Years.JPG": "/authorbooks/static/media/Years.1c62613a7e92adb1d2c5.JPG",
     "static/media/Yearstwo.JPG": "/authorbooks/static/media/Yearstwo.9b4fbadfcc5740c39114.JPG",
     "static/media/Firstbook.jpg": "/authorbooks/static/media/Firstbook.d01261625d74244bb5ad.jpg",
     "static/media/Battle.jpg": "/authorbooks/static/media/Battle.cce59c97bd3264c7a53e.jpg",
     "static/media/Inbank.jpg": "/authorbooks/static/media/Inbank.ebcfe48c3bf31c9598cb.jpg",
     "static/media/Suvorov.jpg": "/authorbooks/static/media/Suvorov.e4bf4718d83f6b9a56f1.jpg",
+    "static/media/bookpage.jpg": "/authorbooks/static/media/bookpage.01d98c9f628e19614c6e.jpg",
     "static/media/Golden.jpg": "/authorbooks/static/media/Golden.0542a12188fb10e29169.jpg",
     "static/media/imagemy.png": "/authorbooks/static/media/imagemy.cad803c82e9edf771c5a.png",
     "static/media/Warrioronhorse.jpg": "/authorbooks/static/media/Warrioronhorse.f57599c733d1250983ee.jpg",
@@ -53,16 +54,15 @@
     "static/media/Vasilok.jpg": "/authorbooks/static/media/Vasilok.e4a88cb2e9f6274ecbf2.jpg",
     "static/media/Fathers.jpg": "/authorbooks/static/media/Fathers.6b88a4c488a015fbb50c.jpg",
     "static/media/Fatherstwo.jpg": "/authorbooks/static/media/Fatherstwo.ac7f55c164f4d57c0810.jpg",
-    "static/media/bookopened.jpg": "/authorbooks/static/media/bookopened.f1835927363318c4e78a.jpg",
     "static/media/Openedbook.jpg": "/authorbooks/static/media/Openedbook.0df9823c5a5094e56c96.jpg",
     "static/media/vasilekgoluboj.jpg": "/authorbooks/static/media/vasilekgoluboj.e040d1da882148b1a2db.jpg",
     "static/media/tt.jfif": "/authorbooks/static/media/tt.30e1ec0a08cad2ccf1bf.jfif",
     "index.html": "/authorbooks/index.html",
-    "main.159d2d75.css.map": "/authorbooks/static/css/main.159d2d75.css.map",
+    "main.fe6fdf42.css.map": "/authorbooks/static/css/main.fe6fdf42.css.map",
     "main.57440e43.js.map": "/authorbooks/static/js/main.57440e43.js.map"
   },
   "entrypoints": [
-    "static/css/main.159d2d75.css",
+    "static/css/main.fe6fdf42.css",
     "static/js/main.57440e43.js"
   ]
 }
