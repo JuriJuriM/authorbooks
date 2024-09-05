@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/authorbooks/static/css/main.fe6fdf42.css",
+    "main.css": "/authorbooks/static/css/main.c9fa4781.css",
     "main.js": "/authorbooks/static/js/main.57440e43.js",
     "static/media/AboutSVU.png": "/authorbooks/static/media/AboutSVU.a88c9bf81c1fea5c7495.png",
     "static/media/moneyfalling.png": "/authorbooks/static/media/moneyfalling.ac1789a27b37086a358b.png",
     "static/media/Suvorovone.png": "/authorbooks/static/media/Suvorovone.35c445f4ae2efc8b893e.png",
-    "static/media/albom.JPG": "/authorbooks/static/media/albom.a91362ccf59292b655d8.JPG",
     "static/media/Alpy.png": "/authorbooks/static/media/Alpy.769824fe534125353eca.png",
     "static/media/Years.JPG": "/authorbooks/static/media/Years.1c62613a7e92adb1d2c5.JPG",
     "static/media/Yearstwo.JPG": "/authorbooks/static/media/Yearstwo.9b4fbadfcc5740c39114.JPG",
@@ -23,6 +22,7 @@
     "static/media/Cardpay.jpg": "/authorbooks/static/media/Cardpay.3c57ca38a9f30fcbb988.jpg",
     "static/media/Warrior.jpg": "/authorbooks/static/media/Warrior.8d68ca483ab1c3af8ae2.jpg",
     "static/media/Girl.jpg": "/authorbooks/static/media/Girl.57ef7e2d70dd1bb6c6b4.jpg",
+    "static/media/mashinavremeni.jpg": "/authorbooks/static/media/mashinavremeni.8a2e87f36d1eaf26108b.jpg",
     "static/media/Beach.jpg": "/authorbooks/static/media/Beach.ac25af503e1a8ead0ff4.jpg",
     "static/media/Warriorinbattle.jpg": "/authorbooks/static/media/Warriorinbattle.f9cc474c680c833c8728.jpg",
     "static/media/Peoplethis.jpg": "/authorbooks/static/media/Peoplethis.49753dab38500e1a5bda.jpg",
@@ -35,6 +35,7 @@
     "static/media/Girlread.jpg": "/authorbooks/static/media/Girlread.7c4d1c492a7dbee92061.jpg",
     "static/media/Bankomat.jpg": "/authorbooks/static/media/Bankomat.dcc0eedade0d475ed7c3.jpg",
     "static/media/Girltime.jpg": "/authorbooks/static/media/Girltime.6acc467b64adc61525d4.jpg",
+    "static/media/pvo.jpg": "/authorbooks/static/media/pvo.095971a22e6bd5a866e0.jpg",
     "static/media/Differenttime.jpg": "/authorbooks/static/media/Differenttime.2ab6e1ab938f793de694.jpg",
     "static/media/Manintime.jpg": "/authorbooks/static/media/Manintime.064d5426894bff8152dd.jpg",
     "static/media/Warriorready.jpg": "/authorbooks/static/media/Warriorready.0a58a99188d4d921b04d.jpg",
@@ -43,8 +44,8 @@
     "static/media/Bankoboev.jpg": "/authorbooks/static/media/Bankoboev.fffb701a0efb4d1da428.jpg",
     "static/media/Umbrella.jpg": "/authorbooks/static/media/Umbrella.b40cf3c4f0abb93c7cb4.jpg",
     "static/media/Logoone.JPG": "/authorbooks/static/media/Logoone.7f35a8c2de240e5ea37a.JPG",
+    "static/media/kadet2.jpg": "/authorbooks/static/media/kadet2.da06b130f8c68ce4dcf9.jpg",
     "static/media/BandS.jpg": "/authorbooks/static/media/BandS.83572d6e0d3d9b97776c.jpg",
-    "static/media/suvorovfirst.jpg": "/authorbooks/static/media/suvorovfirst.15b9af1fd1e8f1483adb.jpg",
     "static/media/Love.jpg": "/authorbooks/static/media/Love.79d2a379f9319953336f.jpg",
     "static/media/Svu.jpg": "/authorbooks/static/media/Svu.13ec05479308ed7491fe.jpg",
     "static/media/Dayof.jpg": "/authorbooks/static/media/Dayof.72568bb0d2c45e2c0576.jpg",
@@ -56,13 +57,12 @@
     "static/media/Fatherstwo.jpg": "/authorbooks/static/media/Fatherstwo.ac7f55c164f4d57c0810.jpg",
     "static/media/Openedbook.jpg": "/authorbooks/static/media/Openedbook.0df9823c5a5094e56c96.jpg",
     "static/media/vasilekgoluboj.jpg": "/authorbooks/static/media/vasilekgoluboj.e040d1da882148b1a2db.jpg",
-    "static/media/tt.jfif": "/authorbooks/static/media/tt.30e1ec0a08cad2ccf1bf.jfif",
     "index.html": "/authorbooks/index.html",
-    "main.fe6fdf42.css.map": "/authorbooks/static/css/main.fe6fdf42.css.map",
+    "main.c9fa4781.css.map": "/authorbooks/static/css/main.c9fa4781.css.map",
     "main.57440e43.js.map": "/authorbooks/static/js/main.57440e43.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe6fdf42.css",
+    "static/css/main.c9fa4781.css",
     "static/js/main.57440e43.js"
   ]
 }
