@@ -60,6 +60,10 @@
         color: rgb(210, 5, 5);
         //color: black;
     }
+    &__nav-item a:hover {
+        color: rgb(121, 16, 16);
+        font-weight: 800;
+    }
     &__nav-item:nth-child(n + 2) {
         margin-left: 20px;
     }
