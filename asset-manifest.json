@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/authorbooks/static/css/main.7a80733c.css",
+    "main.css": "/authorbooks/static/css/main.b880a960.css",
     "main.js": "/authorbooks/static/js/main.57440e43.js",
     "static/media/AboutSVU.png": "/authorbooks/static/media/AboutSVU.a88c9bf81c1fea5c7495.png",
     "static/media/moneyfalling.png": "/authorbooks/static/media/moneyfalling.ac1789a27b37086a358b.png",
@@ -58,11 +58,11 @@
     "static/media/Openedbook.jpg": "/authorbooks/static/media/Openedbook.0df9823c5a5094e56c96.jpg",
     "static/media/vasilekgoluboj.jpg": "/authorbooks/static/media/vasilekgoluboj.e040d1da882148b1a2db.jpg",
     "index.html": "/authorbooks/index.html",
-    "main.7a80733c.css.map": "/authorbooks/static/css/main.7a80733c.css.map",
+    "main.b880a960.css.map": "/authorbooks/static/css/main.b880a960.css.map",
     "main.57440e43.js.map": "/authorbooks/static/js/main.57440e43.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a80733c.css",
+    "static/css/main.b880a960.css",
     "static/js/main.57440e43.js"
   ]
 }
