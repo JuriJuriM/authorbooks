@@ -64,6 +64,10 @@
         color: rgb(121, 16, 16);
         font-weight: 800;
     }
+    &__nav-item a:focus {
+        color: rgb(121, 16, 16);
+        font-weight: 800;
+    }
     &__nav-item:nth-child(n + 2) {
         margin-left: 20px;
     }
