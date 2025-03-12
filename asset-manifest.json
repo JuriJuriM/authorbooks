@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/authorbooks/static/css/main.b880a960.css",
-    "main.js": "/authorbooks/static/js/main.221261c1.js",
+    "main.css": "/authorbooks/static/css/main.12d55be7.css",
+    "main.js": "/authorbooks/static/js/main.9acdecaa.js",
     "static/media/AboutSVU.png": "/authorbooks/static/media/AboutSVU.a88c9bf81c1fea5c7495.png",
     "static/media/moneyfalling.png": "/authorbooks/static/media/moneyfalling.ac1789a27b37086a358b.png",
     "static/media/Suvorovone.png": "/authorbooks/static/media/Suvorovone.35c445f4ae2efc8b893e.png",
@@ -45,6 +45,7 @@
     "static/media/Umbrella.jpg": "/authorbooks/static/media/Umbrella.b40cf3c4f0abb93c7cb4.jpg",
     "static/media/Logoone.JPG": "/authorbooks/static/media/Logoone.7f35a8c2de240e5ea37a.JPG",
     "static/media/kadet2.jpg": "/authorbooks/static/media/kadet2.da06b130f8c68ce4dcf9.jpg",
+    "static/media/Openedbook.jpg": "/authorbooks/static/media/Openedbook.4ed259787e9043d951e5.jpg",
     "static/media/BandS.jpg": "/authorbooks/static/media/BandS.83572d6e0d3d9b97776c.jpg",
     "static/media/Love.jpg": "/authorbooks/static/media/Love.79d2a379f9319953336f.jpg",
     "static/media/Svu.jpg": "/authorbooks/static/media/Svu.13ec05479308ed7491fe.jpg",
@@ -55,14 +56,13 @@
     "static/media/Vasilok.jpg": "/authorbooks/static/media/Vasilok.e4a88cb2e9f6274ecbf2.jpg",
     "static/media/Fathers.jpg": "/authorbooks/static/media/Fathers.6b88a4c488a015fbb50c.jpg",
     "static/media/Fatherstwo.jpg": "/authorbooks/static/media/Fatherstwo.ac7f55c164f4d57c0810.jpg",
-    "static/media/Openedbook.jpg": "/authorbooks/static/media/Openedbook.0df9823c5a5094e56c96.jpg",
     "static/media/vasilekgoluboj.jpg": "/authorbooks/static/media/vasilekgoluboj.e040d1da882148b1a2db.jpg",
     "index.html": "/authorbooks/index.html",
-    "main.b880a960.css.map": "/authorbooks/static/css/main.b880a960.css.map",
-    "main.221261c1.js.map": "/authorbooks/static/js/main.221261c1.js.map"
+    "main.12d55be7.css.map": "/authorbooks/static/css/main.12d55be7.css.map",
+    "main.9acdecaa.js.map": "/authorbooks/static/js/main.9acdecaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.b880a960.css",
-    "static/js/main.221261c1.js"
+    "static/css/main.12d55be7.css",
+    "static/js/main.9acdecaa.js"
   ]
 }
