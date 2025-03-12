@@ -42,8 +42,8 @@
         margin-bottom: 20px;
     }
     &__video {
-        width: 400px;
-        height: 225px;
+        width: 775px;
+        height: 442px;
         margin-top: 10px;
         margin-bottom: 20px;
     }
@@ -134,10 +134,10 @@
 
 @media (max-width: 476px) {
     .fifth {
-        &__video {
-            width: 280px;
-            height: 158px;
-        }
+        // &__video {
+        //     width: 280px;
+        //     height: 158px;
+        // }
         &__texts {
             font-size: 16px;
         }
